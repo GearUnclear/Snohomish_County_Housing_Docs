@@ -6,19 +6,19 @@ A collection of housing and homelessness service documents from Snohomish County
 
 ## Documents
 
-**[HASCO]HMIS Policies and Procedures_Version 12.pdf**
+**[[HASCO]HMIS Policies and Procedures_Version 12.pdf](https://github.com/GearUnclear/Snohomish_County_Housing_Docs/blob/main/%5BHASCO%5DHMIS%20Policies%20and%20Procedures_Version%2012.pdf)**
 - HMIS policies and procedures from Housing Authority of Snohomish County
 - Version 12
 
-**HMIS-Data-Dictionary-2024.pdf**
+**[HMIS-Data-Dictionary-2024.pdf](https://github.com/GearUnclear/Snohomish_County_Housing_Docs/blob/main/HMIS-Data-Dictionary-2024.pdf)**
 - HMIS data dictionary for 2024
 - Standardized definitions for HMIS data elements
 
-**HMIS-Data-Standards-Manual-2024.pdf**
+**[HMIS-Data-Standards-Manual-2024.pdf](https://github.com/GearUnclear/Snohomish_County_Housing_Docs/blob/main/HMIS-Data-Standards-Manual-2024.pdf)**
 - HMIS data standards manual for 2024
 - Technical standards for data collection and reporting
 
-**Fenn-Jorstad Self Sufficiency Matrix.md**
+**[Fenn-Jorstad Self Sufficiency Matrix.md](https://github.com/GearUnclear/Snohomish_County_Housing_Docs/blob/main/Fenn-Jorstad%20Self%20Sufficiency%20Matrix.md)**
 - Self-sufficiency assessment tool
 - Scoring criteria and implementation guidelines
 
@@ -38,7 +38,7 @@ Have additional housing-related documents or updated versions? We'd love your he
 ### What We're Looking For
 - Updated versions of existing documents
 - New housing policies, procedures, or assessment tools
-- Training materials
+- Training materials for service providers
 - Forms and templates used in housing services
 - Contact information for document verification
 
